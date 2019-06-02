@@ -1,5 +1,23 @@
 body {
     font-family: fantasy;
-  
+background-color: lavender;  
 
+}
+
+header {
+    text-align: center;
+    border: slateblue dotted 3px;
+padding: 20px;
+margin: 10px;
+background-color: white;
+}
+    
+hr {
+color: slateblue
+}
+
+#box {
+    padding: 10px 50px 10px 0;
+    margin: 20px;  
+    background-color: white;
 }
